@@ -38,4 +38,7 @@ public class Registry {
         }
         return existe;
     }
+    
+    
+    
 }
